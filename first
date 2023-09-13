@@ -1,0 +1,7 @@
+#Tribute{
+	text-color : yellow;
+}
+
+.class{
+	text-color : green;
+}
